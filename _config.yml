@@ -10,22 +10,22 @@
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
 url: https://ahva-ubc.github.io
-baseurl: /early-modern-italy
+baseurl: /heaven_earth
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh
 # location of code, the full url to your github repository
-source-code: https://github.com/ahva-ubc/early-modern-italy.git
+source-code: https://github.com/ahva-ubc/Heaven-and-Earth.git
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Early Modern Italian Art and Culture (ca. 1550-1700):"
+title: "Heaven and Earth"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The Spectacle of the Counter Reformation
+tagline: Renaissance Art and Culture in Northern Europe
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This course provides a study of the visual culture of Counter Reformation Italy along with particular emphasis on Rome as the center of artistic, cultural, economic, and religious life in seventeenth century Italy. Lecture topics and readings engage with such topics as the Carracci Academy’s rejection of mannerism and the reform of painting, the rise of naturalism and the emergence of Caravaggio and his followers such as Artemisia Gentileschi, the eroticization of religious violence in pictures for private collections, the development of an open market for works of genre painting, the rise to prominence of Bernini, large architectural and sculptural projects for the Papacy and private patrons, the peculiar case of Protestant artists and other outsiders working in Roman Catholic Rome during the 1600s, and the visualization of difference in representations of global conversion. The broad range of a general survey will be balanced with close critical readings of selected objects and artists."
+description: "Painting, sculpture, and graphic art in France, the Netherlands, Germany, and England in the 15th and 16th centuries, with special emphasis on the major figures of this period, from van Eyck and van der Weyden to Grunewald, Bosch, Durer, Holbein, and Pieter Bruegel. Topics covered include the transformation of craft into art as a self-reflective and intellectual practice (Kunst); the emergence of oil painting as a transformative media; the German sculpted altarpiece and the triptych as Northern genres of art; visual culture and the Protestant Reformation; the emergence of graphic culture and the fine art print; witchcraft and mystical nature in German art; and the birth of secular art: portraiture, landscape, and scenes of everyday life."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Joseph Monteyne
 
@@ -34,7 +34,7 @@ author: Joseph Monteyne
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection)
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: early_modern_italian_art_and_culture
+metadata: heaven_earth
 encoding: utf-8
 
 ##########
