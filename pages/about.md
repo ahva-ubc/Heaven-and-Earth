@@ -14,21 +14,22 @@ credits: true
 
 ## About the Collection
 
-This site is meant to showcase content covered in of ARTH 322 Early Modern Italian Art and Culture (ca. 1550-1700): The Spectacle of the Counter Reformation. The course will be taught by Prof. Joseph Monteyne in Winter II, @ the UBC Department of Art History, Visual Art and Theory (AHVA).
+This site is meant to showcase content covered in of ARTH 323 Heaven and Earth: Renaissance Art and Culture in Northern Europe
+1400-1600. The course will be taught by Prof. Joseph Monteyne in Winter I, 2022, @ the UBC Department of Art History, Visual Art and Theory (AHVA).
 
-The material on this site is intended for educational and scholarly use as in teaching, research, private study, criticism, and review. The author(s) of the site have made a good faith effort to identify and acknowledge content creators of the various images used on the site. If you desire to claim copyright to an image on this site and want the authors to either take an image down or append proper acknowledgment for an image, please inform us at remi.castonguay [at] ubc.edu.
+The material on this site is intended for educational and scholarly use as in teaching, research, private study, criticism, and review. The author(s) of the site have made a good faith effort to identify and acknowledge content creators of the various images used on the site. If you desire to claim copyright to an image on this site and want the authors to either take an image down or append proper acknowledgment for an image, please inform us at ahva.vrc [at] ubc.edu.
 
 Here are some of themes we'll explore this semester:
 
-<ul>THE FALL OF THE IDOLS: COUNTER-REFORMATION, THE REJECTION OF MANNERISM, AND THE EMERGENCE OF THE CARRACCI</ul>
-<ul>FRUIT AND FLESH: THE EARLY ROMAN WORKS OF CARAVAGGIO</ul>
-<ul>PAGAN LOVE ADVENTURES: ANNIBALE CARRACCI AND THE DECORATONS OF THE PALAZZO FARNESE</ul>
-<ul>GENRE PAINTING IN THE CHAPEL? THE EARLY RELIGIOUS WORKS OF CARAVAGGIO</ul>
-<ul>THE EROTICIZATION OF RELIGIOUS VIOLENCE IN NAPLES AND ROME: THE FOLLOWERS OF CARAVAGGIO</ul>
-<ul>RIVALRY, THEFT, AND SEXUAL TENSION: THE HEIRS OF THE CARRACCI</ul>
-<ul>FANTASIES OF HOT AND COLD FLESH: SCULPTURE, THE RESTORATION OF ANTIQUE FRAGMENTS, AND THE EMERGENCE OF BERNINI IN EARLY MODERN ROME</ul>
-<ul>SCULPTURE AS ARCHITECTURE, URBAN SPACE AS THEATRE: PAPAL PROJECTS AND THE TRANSFORMATION OF ROME</ul>
-<ul>ARCHITECTURE, MOVEMENT, WISDOM: BORROMINI</ul>
-<ul>THE FEMALE MYSTIC, THE FOUNTAIN, AND THE FLOATING DOME: BERNINI’S PROJECTS FOR PRIVATE PATRONS AND RELIGIOUS ORDERS</ul>
-<ul>BANDITS AND BAMBOCCIANTI: SALVATOR ROSA, GENRE PAINTING, AND THE OPEN MARKET AT MID-CENTURY</ul>
-<ul>FROM ROME TO THE WORLD: LATE ROMAN CLASSICISM, THE JESUITS, AND VISUALIZING GLOBAL CONVERSION</ul>
+<ul>INTRODUCTORY COMMENTS; WAS THERE A NORTHERN RENAISSANCE?</ul>
+<ul>PRECURSORS TO ARS NOVA: AN EMERGING NATURALISM</ul>
+<ul>FROM CRAFT TO ARS NOVA: JAN VAN EYCK LAUNCHES THE RENAISSANCE IN THE NORTH</ul>
+<ul>PAINTINGS WITH DOORS: THE FUNCTIONS AND CONVENTIONS OF THE 15TH CENTURY FLEMISH DIPTYCH AND TRIPTYCH</ul>
+<ul>HYBRID FORMS AND EARTHLY DELIGHTS: BIZARRE BOSCH</ul>
+<ul>POLYCHROMY AND PRESENCE: THE GERMAN SCULPTED ALTARPIECE</ul>
+<ul>THE PRINTING REVOLUTION AND EARLY GRAPHIC ARTS</ul>
+<ul>THE EMERGENCE OF KUNST: ALBRECHT DURER AND THE ELEVATION OF THE ARTIST</ul>
+<ul>PROBLEMATIC PICTURES: THE REFORMATION AND THE VISUAL ARTS</ul>
+<ul>WITCHCRAFT, MYSTICAL NATURE, AND PRIMEVAL FORESTS IN THE ART OF ALBRECHT ALTDORFER AND HANS BALDUNG</ul>
+<ul>AMBASSADORS AND MERCHANTS: HANS HOLBEIN THE YOUNGER AND THE ENGLISH COURT</ul>
+<ul>MARKET SCENES, FESTIVE PEASANTS, AND LANDSCAPES: THE EMERGENCE OF SECULAR ART </ul>
